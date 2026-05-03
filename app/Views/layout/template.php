@@ -14,7 +14,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
         <div class="container">
-            <a class="navbar-brand" href="/jurnal">📚 Jurnal Skripsi</a>
+            <a class="navbar-brand" href="/jurnal">Jurnal Skripsi</a>
         </div>
     </nav>
 
